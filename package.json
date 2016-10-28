@@ -1,0 +1,19 @@
+{
+  "name": "crawler-proxy",
+  "version": "0.0.1",
+  "description": "crawler-proxy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "crawler": "~0.4.3",
+    "mysql": "~2.11.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:lizongying/crawler-proxy.git"
+  },
+  "author": "lizongying",
+  "license": "MIT"
+}
